@@ -1,0 +1,8 @@
+Feature,Type,Method
+Date,date,
+Date_Month,by_group,
+Id,by_group,
+Level1,level,"max, min, mean, count"
+Flow1,flow,"sum, count"
+Cat1,categorical,"unique, sum_Flow1"
+Text1,text,"concat, sum"

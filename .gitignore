@@ -1,0 +1,7 @@
+venv
+.ipynb_checkpoints
+dist
+tests/.ipynb_checkpoints
+tests/__pycache__
+tests/.ipynb_checkpoints/Sample_Competition-checkpoint.ipynb
+tests/__pycache__/pipelines.cpython-38.pyc

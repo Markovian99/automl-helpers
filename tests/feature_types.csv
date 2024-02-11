@@ -1,0 +1,53 @@
+feature_name,count,unique,top,freq,mean,std,min,25%,50%,75%,max,num_unique,feature_type,missing_count
+rowID,10000.0,,,,5000.5,2886.8956799071675,1.0,2500.75,5000.5,7500.25,10000.0,10000,Numeric,0
+race,10000,6,Caucasian,7359,,,,,,,,6,Categorical,0
+gender,10000,2,Female,5398,,,,,,,,2,Categorical,0
+age,10000,10,[70-80),2595,,,,,,,,10,Categorical,0
+weight,10000,8,?,9592,,,,,,,,8,Categorical,0
+admission_type_id,9279,6,Emergency,4905,,,,,,,,6,Categorical,721
+discharge_disposition_id,9531,21,Discharged to home,6056,,,,,,,,21,Categorical,469
+admission_source_id,9064,10,Emergency Room,4940,,,,,,,,10,Categorical,936
+time_in_hospital,10000.0,,,,4.4347,3.021597080169987,1.0,2.0,4.0,6.0,14.0,14,,0
+payer_code,10000,16,?,5341,,,,,,,,16,Categorical,0
+medical_specialty,10000,53,?,4100,,,,,,,,53,Categorical,0
+num_lab_procedures,10000.0,,,,43.0786,19.453315017922176,1.0,32.0,44.0,57.0,120.0,108,Numeric,0
+num_procedures,10000.0,,,,1.3992,1.7064379722261596,0.0,0.0,1.0,2.0,6.0,7,,0
+num_medications,10000.0,,,,15.5638,8.39161316298293,1.0,10.0,14.0,19.0,81.0,68,,0
+number_outpatient,10000.0,,,,0.2817,1.1194062788111245,0.0,0.0,0.0,0.0,36.0,23,,0
+number_emergency,10000.0,,,,0.115,0.649474542779205,0.0,0.0,0.0,0.0,42.0,12,,0
+number_inpatient,10000.0,,,,0.3873,0.8542667541047267,0.0,0.0,0.0,0.0,10.0,11,,0
+diag_1,10000,458,414,735,,,,,,,,458,Categorical,0
+diag_2,10000,430,250,684,,,,,,,,430,Categorical,0
+diag_3,10000,461,250,1276,,,,,,,,461,Categorical,0
+number_diagnoses,10000.0,,,,7.0253,2.0209572822881365,1.0,5.0,7.0,9.0,9.0,9,,0
+max_glu_serum,10000,4,None,9336,,,,,,,,4,Categorical,0
+A1Cresult,10000,4,None,8379,,,,,,,,4,Categorical,0
+metformin,10000,4,No,8011,,,,,,,,4,Categorical,0
+repaglinide,10000,4,No,9870,,,,,,,,4,Categorical,0
+nateglinide,10000,4,No,9949,,,,,,,,4,Categorical,0
+chlorpropamide,10000,3,No,9987,,,,,,,,3,Categorical,0
+glimepiride,10000,4,No,9509,,,,,,,,4,Categorical,0
+acetohexamide,10000,1,No,10000,,,,,,,,1,Categorical,0
+glipizide,10000,4,No,8696,,,,,,,,4,Categorical,0
+glyburide,10000,4,No,8814,,,,,,,,4,Categorical,0
+tolbutamide,10000,2,No,9997,,,,,,,,2,Categorical,0
+pioglitazone,10000,4,No,9294,,,,,,,,4,Categorical,0
+rosiglitazone,10000,4,No,9239,,,,,,,,4,Categorical,0
+acarbose,10000,3,No,9968,,,,,,,,3,Categorical,0
+miglitol,10000,4,No,9995,,,,,,,,4,Categorical,0
+troglitazone,10000,1,No,10000,,,,,,,,1,Categorical,0
+tolazamide,10000,2,No,9996,,,,,,,,2,Categorical,0
+examide,10000,1,No,10000,,,,,,,,1,Categorical,0
+citoglipton,10000,1,No,10000,,,,,,,,1,Categorical,0
+insulin,10000,4,No,5159,,,,,,,,4,Categorical,0
+glyburide.metformin,10000,4,No,9944,,,,,,,,4,Categorical,0
+glipizide.metformin,10000,2,No,9998,,,,,,,,2,Categorical,0
+glimepiride.pioglitazone,10000,1,No,10000,,,,,,,,1,Categorical,0
+metformin.rosiglitazone,10000,1,No,10000,,,,,,,,1,Categorical,0
+metformin.pioglitazone,10000,1,No,10000,,,,,,,,1,Categorical,0
+change,10000,2,No,5724,,,,,,,,2,Categorical,0
+diabetesMed,10000,2,Yes,7478,,,,,,,,2,Categorical,0
+readmitted,10000,2,False,6035,,,,,,,,2,Categorical,0
+diag_1_desc,9998,457,"Coronary atherosclerosis of unspecified type of vessel, native or graft",735,,,,,,,,457,Categorical,2
+diag_2_desc,9941,429,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",684,,,,,,,,429,Categorical,59
+diag_3_desc,9792,460,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",1276,,,,,,,,460,Categorical,208
